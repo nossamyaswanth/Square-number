@@ -1,2 +1,2 @@
 # Square-number
-Calculating Square of a Number
+This program allows the user to enter an integer value and then finds the square of that number
